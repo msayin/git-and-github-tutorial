@@ -1,0 +1,9 @@
+Github and Git Bash:
+https://www.youtube.com/watch?v=bqV-eszlRhY
+pwd
+git status
+git clone (github path)
+git add . (add all)
+git commit -m "..."
+git push
+
