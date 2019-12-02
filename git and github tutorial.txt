@@ -7,3 +7,8 @@ git add . (add all)
 git commit -m "..."
 git push
 
+Switching GitHub Account in Git Bash (Permission Denied)
+
+https://www.youtube.com/watch?v=aSTTJd5JMXg
+
+
